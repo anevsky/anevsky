@@ -6,11 +6,13 @@
   <img alt="Alex Nevsky" src="https://github.com/anevsky/anevsky/blob/main/alex-sf.jpg">
 </picture>
 
-😄 I'm Alex, AI R&D Engineer with 12+ years of experience and entrepreneurial mindset, B.Sc. in Artificial Intelligence.
+😄 I'm Alex, AI R&D Engineer with 15+ years of experience and entrepreneurial mindset, B.Sc. in Artificial Intelligence.
 
 🔭 AI/Web/Cloud.
 
-📫 Reach me on X: https://x.com/anevsky
+📫 Reach me on X (Twitter): https://x.com/anevsky
+
+👨‍💻 LinkedIn: https://www.linkedin.com/in/anevsky
 
 ⚡ Website: https://alexnevsky.com
 
